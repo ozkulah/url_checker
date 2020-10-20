@@ -3,7 +3,6 @@ import os
 import dns.resolver
 import pandas as pd
 
-import socket
 
 class UrlExtractor:
 
