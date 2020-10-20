@@ -4,7 +4,7 @@ import dns.resolver
 import pandas as pd
 
 import socket
-import matplot
+
 class UrlExtractor:
 
     def __init__(self):
